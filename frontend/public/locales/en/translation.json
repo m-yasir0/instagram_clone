@@ -1,0 +1,12 @@
+{
+  "post_deleted": "Post deleted successfully",
+  "post_created": "Post created successfully",
+  "post_updated": "Post updated successfully",
+  "story_deleted": "Story deleted successfully",
+  "story_created": "Story created successfully",
+  "story_updated": "Story updated successfully",
+  "user_updated": "User updated successfully",
+  "request_sent": "Request sent successfully",
+  "request_accepted": "Request accepted Successfully",
+  "server_error": "Some server error occured"
+}
